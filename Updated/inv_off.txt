@@ -1,0 +1,7 @@
+r_drawplayersprites 1
+bind mouse1 "+attack"
+bind mouse2 "+altattack"
+bind mwheeldown "weapnext"
+bind mwheelup "weapprev"
+bind tab "exec scripts/inv_on.txt"
+playsound weapons/sshoto

@@ -1,0 +1,5 @@
+vid_rendermode 4
+vid_scale_customwidth 1280
+vid_scale_customheight 720
+vid_scale_custompixelaspect 1
+bind f11 "exec scripts/FPS-On.txt"

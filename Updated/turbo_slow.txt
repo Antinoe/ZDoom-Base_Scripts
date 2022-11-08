@@ -1,0 +1,6 @@
+//by Antinous
+//original author of walk mod: CzechDeath
+
+turbo 30
+bind alt "exec scripts/turbo_fast.txt"
+fov 60

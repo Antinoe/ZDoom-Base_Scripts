@@ -1,0 +1,17 @@
+r_drawplayersprites 0
+unbind mouse1
+unbind mouse2
+unbind mwheeldown
+unbind mwheelup
+unbind r
+unbind 1
+unbind 2
+unbind 3
+unbind 4
+unbind 5
+unbind 6
+unbind 7
+unbind 8
+unbind 9
+unbind 0
+bind v "exec scripts/holster_off.txt"
