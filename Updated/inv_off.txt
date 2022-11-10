@@ -1,4 +1,9 @@
 r_drawplayersprites 1
+bind f "+user1"
+bind g "+user2"
+bind z "+user3"
+bind x "+user4"
+bind c "+zoom"
 bind mouse1 "+attack"
 bind mouse2 "+altattack"
 bind mwheeldown "weapnext"

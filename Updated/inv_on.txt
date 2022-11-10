@@ -1,4 +1,9 @@
 r_drawplayersprites 0
+unbind f
+unbind g
+unbind z
+unbind x
+unbind c
 bind mouse1 "invuse"
 bind mouse2 "invdrop"
 bind mwheeldown "invnext"
