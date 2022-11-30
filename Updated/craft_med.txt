@@ -1,0 +1,5 @@
+playsound weapons/sshoto
+playsound weapons/sshotc
+say "Crafting Medical Item.."
+take health 16
+summon healthbonus

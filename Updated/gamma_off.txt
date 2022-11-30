@@ -1,0 +1,2 @@
+vid_gamma 1
+bind g "exec scripts/gamma_on.txt"

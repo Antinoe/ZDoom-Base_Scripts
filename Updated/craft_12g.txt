@@ -1,0 +1,5 @@
+playsound weapons/sshoto
+playsound weapons/sshotc
+say "Crafting Shells.."
+take health 6
+summon shell

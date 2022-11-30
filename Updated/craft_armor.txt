@@ -1,0 +1,5 @@
+playsound weapons/sshoto
+playsound weapons/sshotc
+say "Crafting Ceramic Vest.."
+take health 73
+summon greenarmor

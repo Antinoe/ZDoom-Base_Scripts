@@ -1,4 +1,5 @@
 r_drawplayersprites 1
+bind r "+reload"
 bind f "+user1"
 bind g "+user2"
 bind z "+user3"

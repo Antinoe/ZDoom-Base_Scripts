@@ -1,0 +1,3 @@
+bind , "take health 3; summonfriend zombieman"
+bind . "take health 6; summonfriend shotgunguy"
+bind / "take health 9; summonfriend chaingunguy"

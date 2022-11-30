@@ -1,0 +1,5 @@
+playsound weapons/sshoto
+playsound weapons/sshotc
+say "Crafting Clip.."
+take health 3
+summon clip

@@ -1,0 +1,5 @@
+//bind [ "exec scripts/craft_9mm.txt"
+bind [ "exec scripts/craft_12g.txt"
+bind ] "exec scripts/craft_shotgun.txt"
+//bind ] "exec scripts/craft_med.txt"
+bind \ "exec scripts/craft_armor.txt"

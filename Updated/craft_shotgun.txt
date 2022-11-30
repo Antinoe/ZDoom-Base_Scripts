@@ -1,0 +1,6 @@
+playsound weapons/sshoto
+playsound weapons/sshotc
+say "Crafting Shotgun Set.."
+take health 24
+summon shotgun
+summon supershotgun

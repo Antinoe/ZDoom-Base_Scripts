@@ -1,5 +1,5 @@
-vid_rendermode 4
+//vid_rendermode 4
 vid_scale_customwidth 0
 vid_scale_customheight 0
-vid_scale_custompixelaspect 1
+//vid_scale_custompixelaspect 1
 bind f11 "exec scripts/FPS-Off.txt"
