@@ -7,6 +7,7 @@ unbind x
 unbind c
 bind mouse1 "invuse"
 bind mouse2 "invdrop"
+bind mouse3 "weapdrop"
 bind mwheeldown "invnext"
 bind mwheelup "invprev"
 bind tab "exec scripts/inv_off.txt"
